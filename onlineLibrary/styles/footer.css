@@ -1,0 +1,19 @@
+footer{
+    width: 100%;
+    background: rgb(33, 34, 34);
+    height: 30vh;
+}
+.footer{
+    width: 1250px;
+    margin: auto;
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer {
+    color: rgb(0, 153, 255);
+}
+.footer a {
+    color: rgb(208, 255, 0);
+}

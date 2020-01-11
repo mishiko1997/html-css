@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: bgparial;
+}
+html {
+    scroll-behavior: smooth;
+  }
+ul, li{
+    list-style: none;
+    display: inline-block;
+}
+button{
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+@font-face{
+    font-family: bgparial;
+    src: url('../fonts/bgparial.ttf');
+}
+body{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
